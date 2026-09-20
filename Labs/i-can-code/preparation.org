@@ -1,0 +1,14 @@
+#+TITLE: Preparation for I-can-code Workshop
+#+OPTIONS: ^:nil num:nil
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" href="../../../html5/css/assignstyles.css"/>
+
+There are several things to do before the workshop which will happen during class in Week 2. They will take some time. Make sure you budget your time accordingly.
+
+  - Complete:
+    - the [[https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted][MATLAB Onramp]]: An online step-by-step intro to matlab. Will take about 2 hours
+  - Read:
+    - [[./spano-elife-56211-v1.pdf][Spano et al article: Dreaming with hippocampal damage]]
+    - [[./experimental_design_and_statistics_guide.pdf][Experimental design and statistics guide]]
+    - For more information on the computing aspects, if needed, see [[../../../Resources/miller-chap-segs/Chapter_1_Sec_5.pdf][Miller, Section 1.5]]
+  - Do via D2L:
+    - [[https://d2l.depaul.edu/d2l/lms/quizzing/quizzing.d2l?ou=1173362&qi=630153][Quiz on Spano article, Experiments and Science]]
